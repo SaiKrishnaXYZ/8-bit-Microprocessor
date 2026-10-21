@@ -56,11 +56,6 @@ All instructions are fixed at 16 bits wide. Opcodes occupy the top 4 bits (`[15:
 
 &nbsp;
 
-## Architectural Datapath
-
-Below is the architectural reference diagram of the 5-stage pipelined datapath with central hazard detection and data forwarding:
-
-![][Pipelined_Microprocessor_datapath.jpeg]
 
 ## Pipeline Stages
 
