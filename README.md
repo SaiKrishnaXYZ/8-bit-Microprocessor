@@ -2,7 +2,7 @@
 
 An 8-bit processor implementation designed and modeled in Verilog HDL. This project demonstrates the progression from a basic **Single-Cycle Microprocessor** to a fully featured **5-Stage Pipelined Microprocessor** equipped with hazard detection, data forwarding, and flush mechanisms.
 
-## Project Overview
+## Project Overview 
 
 This repository contains the hardware description for a custom 16-bit Instruction Set Architecture (ISA) built with an 8-bit data path:
 
