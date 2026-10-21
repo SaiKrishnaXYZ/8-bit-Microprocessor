@@ -56,13 +56,13 @@ All instructions are fixed at 16 bits wide. Opcodes occupy the top 4 bits (`[15:
 
 &nbsp;
 
-## **🏗️ Architectural Datapath**
+## ** Architectural Datapath**
 
 Below is the architectural reference diagram of the 5-stage pipelined datapath with central hazard detection and data forwarding:
 
-![][image1]
+![][Pipelined_Microprocessor_datapath]
 
-## **⚙️ Pipeline Stages**
+## ** Pipeline Stages**
 
 The processor divides instruction execution into **5 distinct pipeline stages**:
 
@@ -83,7 +83,7 @@ The processor divides instruction execution into **5 distinct pipeline stages**:
 
 &nbsp;
 
-## 📂 Source Modules Breakdown
+## Source Modules Breakdown
 
 The codebase is organized into modular Verilog files within `Pipelined_Microprocessor_srcs/`:
 
